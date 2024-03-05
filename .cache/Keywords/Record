@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "2049058E7461A14B7408C6F75446E856",
+  "keywordClasses": [
+    {
+      "name": "Record",
+      "keywordMethods": [
+        {
+          "name": "hello",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

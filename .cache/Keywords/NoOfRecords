@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "FDB74B143BC9B728F70CF02EF7E28105",
+  "keywordClasses": [
+    {
+      "name": "NoOfRecords",
+      "keywordMethods": [
+        {
+          "name": "hello",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
